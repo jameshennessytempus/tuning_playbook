@@ -3,7 +3,7 @@
 
 **Varun Godbole<sup>&dagger;</sup>, George E. Dahl<sup>&dagger;</sup>, Justin Gilmer<sup>&dagger;</sup>, Christopher J. Shallue<sup>&Dagger;</sup>, Zachary Nado<sup>&dagger;</sup>**
 
-
+#catchup
 &dagger; Google Research, Brain Team
 
 &Dagger; Harvard University
